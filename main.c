@@ -112,6 +112,7 @@ int main (int argc, char *argv[]){
 
 /* verificacao(testes)
     for(int i = 0; i < nBacterias; i++){
+    kk
         printf("\n%s", bac_contaminada[i]);
     }
 */
